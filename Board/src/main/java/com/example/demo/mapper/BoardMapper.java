@@ -21,5 +21,5 @@ public interface BoardMapper {
 	
 	public int selectBoardTotalCount(BoardDTO params);
 	
-	/*¸ÅÆÛ ¼öÁ¤Çß½À´Ï´Ù.*/
+	/* ë§¤í¼ ë‹¤ì‹œ ìˆ˜ì •í–ˆìŠµë‹ˆë‹¤*/
 }
