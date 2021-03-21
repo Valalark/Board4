@@ -20,4 +20,6 @@ public interface BoardMapper {
 	public List<BoardDTO> selectBoardList(BoardDTO params);
 	
 	public int selectBoardTotalCount(BoardDTO params);
+	
+	/*매퍼 수정했습니다.*/
 }
