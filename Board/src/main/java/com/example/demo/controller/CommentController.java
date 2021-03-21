@@ -41,7 +41,7 @@ public class CommentController {
 		
 		System.out.println(jsonObj);
 		
-		/*수정합니당*/
+		/*수정합니당1111*/
 		return jsonObj;
 	}
 }
