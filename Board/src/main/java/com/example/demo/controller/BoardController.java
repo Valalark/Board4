@@ -21,7 +21,7 @@ import com.example.demo.util.UiUtils;
 @Controller
 public class BoardController extends UiUtils{
 	
-	/*보드 컨트롤러 수정했습니다.*/
+	/*보드 컨트롤러 수정했습니다11.*/
 
 	@Autowired
 	private BoardService boardService;

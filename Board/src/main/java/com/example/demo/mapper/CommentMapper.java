@@ -20,4 +20,6 @@ public interface CommentMapper {
 	public List<CommentDTO> selectCommentList(CommentDTO params);
 	
 	public int selectCommentTotalCount(CommentDTO params);
+	
+	/*코멘트 맵퍼 수정*/
 }
