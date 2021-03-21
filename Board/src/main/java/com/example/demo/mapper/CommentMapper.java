@@ -21,5 +21,5 @@ public interface CommentMapper {
 	
 	public int selectCommentTotalCount(CommentDTO params);
 	
-	/*코멘트 맵퍼 수정*/
+	/*코멘트 맵퍼 수정 다시 수정핼께*/
 }
